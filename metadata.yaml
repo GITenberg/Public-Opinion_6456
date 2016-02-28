@@ -1,0 +1,40 @@
+_repo: Public-Opinion_6456
+creator:
+  author:
+    agent_name: Lippmann, Walter
+    birthdate: 1889
+    deathdate: 1974
+    gutenberg_agent_id: '2049'
+    url: http://www.gutenberg.org/2009/agents/2049
+    wikipedia: http://en.wikipedia.org/wiki/Walter_Lippmann
+description: "Public Opinion is a book by Walter Lippmann, published in 1922, that\
+  \ is a critical assessment of functional democratic government, especially the irrational,\
+  \ and often self-serving, social perceptions that influence individual behavior,\
+  \ and prevent optimal societal cohesion. The descriptions of the cognitive limitations\
+  \ people face in comprehending their socio-political and cultural environments,\
+  \ proposes that people must inevitably apply an evolving catalogue of general stereotypes\
+  \ to a complex reality, rendered Public Opinion a seminal text in the fields of\
+  \ media studies, political science, and social psychology.\n From Wikipedia (CC\
+  \ BY-SA)."
+gutenberg_issued: '2004-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6456'
+  wikidata: Q1768450
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Social psychology'
+- !lcsh 'Public opinion -- United States'
+- !lcsh 'Public opinion'
+- !lcc 'HM'
+- !lcsh 'Social psychology -- United States'
+- !lcsh 'United States -- Politics and government'
+title: Public Opinion
+url: http://www.gutenberg.org/ebooks/6456
+wikipedia:
+- https://en.wikipedia.org/wiki/Public_Opinion_(book)
+- https://ja.wikipedia.org/wiki/%E4%B8%96%E8%AB%96_(%E3%83%AA%E3%83%83%E3%83%97%E3%83%9E%E3%83%B3)
+- https://no.wikipedia.org/wiki/Public_Opinion
