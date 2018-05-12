@@ -1,4 +1,8 @@
 _repo: Public-Opinion_6456
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Lippmann, Walter
@@ -16,6 +20,8 @@ description: "Public Opinion is a book by Walter Lippmann, published in 1922, th
   \ to a complex reality, rendered Public Opinion a seminal text in the fields of\
   \ media studies, political science, and social psychology.\n From Wikipedia (CC\
   \ BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6456#Public-Opinion
 gutenberg_issued: '2004-09-01'
 gutenberg_type: Text
 identifiers:
